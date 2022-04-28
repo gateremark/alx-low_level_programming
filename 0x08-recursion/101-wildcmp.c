@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 int check_path(char *S1, char *s2);
 char *move_char(char *s2);
