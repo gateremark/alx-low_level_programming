@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * *_memcpy - fills first byte of the memory area pointed

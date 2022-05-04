@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  **_strpbrk - Return a pointer to byte s.
